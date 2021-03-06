@@ -8,6 +8,7 @@ namespace git.test._3
         {
             Console.WriteLine("Hello first change!");
             Console.WriteLine("The second message");
+            Console.WriteLine("The third message");
         }
     }
 }
